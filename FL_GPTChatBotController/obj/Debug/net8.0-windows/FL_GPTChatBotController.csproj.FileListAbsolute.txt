@@ -1,0 +1,16 @@
+C:\Users\deniz\source\repos\FL_GPTChatBotController\bin\Debug\net8.0-windows\FL_GPTChatBotController.exe
+C:\Users\deniz\source\repos\FL_GPTChatBotController\bin\Debug\net8.0-windows\FL_GPTChatBotController.deps.json
+C:\Users\deniz\source\repos\FL_GPTChatBotController\bin\Debug\net8.0-windows\FL_GPTChatBotController.runtimeconfig.json
+C:\Users\deniz\source\repos\FL_GPTChatBotController\bin\Debug\net8.0-windows\FL_GPTChatBotController.dll
+C:\Users\deniz\source\repos\FL_GPTChatBotController\bin\Debug\net8.0-windows\FL_GPTChatBotController.pdb
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.Form1.resources
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.csproj.GenerateResource.cache
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.AssemblyInfoInputs.cache
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.AssemblyInfo.cs
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.dll
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\refint\FL_GPTChatBotController.dll
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.pdb
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\FL_GPTChatBotController.genruntimeconfig.cache
+C:\Users\deniz\source\repos\FL_GPTChatBotController\obj\Debug\net8.0-windows\ref\FL_GPTChatBotController.dll

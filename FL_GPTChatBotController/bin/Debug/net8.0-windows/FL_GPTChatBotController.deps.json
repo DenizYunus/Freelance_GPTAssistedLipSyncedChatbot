@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FL_GPTChatBotController/1.0.0": {
+        "runtime": {
+          "FL_GPTChatBotController.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FL_GPTChatBotController/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
